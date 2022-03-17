@@ -1,2 +1,2 @@
 # WSI-Tiling
-Tiling WSI formats (available: svs, czi) more formats to be added
+Tiling WSI formats (available: SVS, CZI) more formats to be added
